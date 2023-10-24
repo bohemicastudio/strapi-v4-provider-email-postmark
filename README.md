@@ -1,6 +1,7 @@
-# strapi-provider-email-postmark
+# @bohemicastudio/strapi-v4-provider-email-postmark
 
 [Strapi](http://strapi.io/) email service for [Postmark](https://postmarkapp.com/)
+Forked to support new Strapi versions
 
 # Prerequisites
 
