@@ -1,7 +1,7 @@
 {
-  "name": "strapi-v4-provider-email-postmark",
+  "name": "@bohemicastudio/strapi-v4-provider-email-postmark",
   "version": "4.2.0",
-  "description": "Strapi v4 Email service provider for Postmark",
+  "description": "Strapi v4 Email service provider for Postmark with support for new Node versions",
   "author": {
     "email": "scott.agirs@gmail.com",
     "name": "Scott Agirs Neminskis"
