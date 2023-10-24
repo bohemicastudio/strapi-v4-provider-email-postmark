@@ -37,7 +37,7 @@
     "url": "https://github.com/orvad/strapi-provider-email-postmark/issues"
   },
   "engines": {
-    "node": ">=14.19.1 <=16.x.x",
+    "node": ">=14.19.1",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
