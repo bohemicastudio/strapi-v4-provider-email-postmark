@@ -31,10 +31,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/orvad/strapi-provider-email-postmark.git"
+    "url": "https://github.com/bohemicastudio/strapi-v4-provider-email-postmark"
   },
   "bugs": {
-    "url": "https://github.com/orvad/strapi-provider-email-postmark/issues"
+    "url": "https://github.com/bohemicastudio/strapi-v4-provider-email-postmark/issues"
   },
   "engines": {
     "node": ">=14.19.1",
