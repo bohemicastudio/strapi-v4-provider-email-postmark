@@ -40,7 +40,7 @@ module.exports = ({ env }) => ({
   // ...
   email: {
     config: {
-      provider: "strapi-v4-provider-email-postmark",
+      provider: "@bohemicastudio/strapi-v4-provider-email-postmark",
       providerOptions: {
         apiKey: env("POSTMARK_API_KEY"),
       },
