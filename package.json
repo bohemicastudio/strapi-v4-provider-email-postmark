@@ -1,6 +1,7 @@
 {
   "name": "@bohemicastudio/strapi-v4-provider-email-postmark",
-  "version": "4.2.0",
+  "version": "4.3.1",
+  "private": false,
   "description": "Strapi v4 Email service provider for Postmark with support for new Node versions",
   "author": {
     "email": "scott.agirs@gmail.com",
@@ -31,7 +32,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bohemicastudio/strapi-v4-provider-email-postmark"
+    "url": "git+https://github.com/bohemicastudio/strapi-v4-provider-email-postmark.git"
   },
   "bugs": {
     "url": "https://github.com/bohemicastudio/strapi-v4-provider-email-postmark/issues"

@@ -11,10 +11,10 @@ You will need to have the plugin `strapi-plugin-email` installed in you Strapi p
 
 ```
 # using yarn
-yarn add strapi-v4-provider-email-postmark
+yarn add @bohemicastudio/strapi-v4-provider-email-postmark
 
 # using npm
-npm i strapi-v4-provider-email-postmark
+npm i @bohemicastudio/strapi-v4-provider-email-postmark
 ```
 
 # Configuration
